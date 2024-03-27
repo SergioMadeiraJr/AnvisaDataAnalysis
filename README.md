@@ -21,11 +21,10 @@ Utilizando dados da ANVISA, o foco é entender a evolução e a variação na qu
 2. Certifique-se de ter o Python instalado, junto com as bibliotecas Pandas, Matplotlib e Seaborn.
 3. Execute o script principal para ver as análises e visualizações geradas.
 
-```bash
 python anvisa.py
 
-Contribuições
+## Contribuições
 Contribuições são muito bem-vindas! Se você tem alguma sugestão para melhorar a análise ou a visualização dos dados, por favor, sinta-se à vontade para criar uma issue ou submeter um pull request.
 
-Contato
+## Contato
 Sérgio Madeira - sergiomadeirads@gmail.com
